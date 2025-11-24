@@ -33,7 +33,7 @@
 Третий файл будет состоять из удаленных конфигураций: заметил, что конфиги для белых списков периодически (но не факт) оживают,
 поэтому нерабочие будут удаляться и перемещаться в этот отдельный файл и иногда проверяться на пульс.
 
-Старые файлы скачал, загрузил в папку **"old/24.11.2025"** репозитория.
+Старые файлы скачал, загрузил в папку "old/24.11.2025" репозитория.
 
 Как переименовал .txt файлы:
 
@@ -41,9 +41,9 @@
 
 `Shadowsocks-Hysteria2-Black-Lists-Rus-Cable.txt` ➡️ `BLACK_SS+All_RUS.txt`
 
-`Vless-Reality-White-Lists-Rus-Cable.txt` ........➡️ `WHITE_VLESS_CABLE_RUS.txt`
+`Vless-Reality-White-Lists-Rus-Cable.txt` ........➡️ `Оставил такое же название`
 
-`Vless-Reality-White-Lists-Rus-Mobile.txt` .......➡️ `WHITE_VLESS_MOBILE_RUS.txt`
+`Vless-Reality-White-Lists-Rus-Mobile.txt` .......➡️ `Оставил такое же название`
 
 `White_Lists_Full_Rus.txt` .......................➡️ `WHITE_DELETED.txt`
 
@@ -136,21 +136,21 @@ VPN-конфигурации на вашем устройстве удобнее
 
 ---
 
-**VLESS КАБЕЛЬ**::  [WHITE_VLESS_CABLE_RUS.txt](https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE_VLESS_CABLE_RUS.txt)
+**VLESS КАБЕЛЬ**::  [Vless-Reality-White-Lists-Rus-Cable](https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Cable.txt)
 
 <details>
 <summary> QR-код </summary>
 
-  ![WHITE_VLESS_CABLE_RUS-QR](https://github.com/igareck/vpn-configs-for-russia/blob/main/QR-codes/WHITE_VLESS_CABLE_RUS-QR.png)
+  ![WHITE_VLESS_CABLE_RUS-QR](https://github.com/igareck/vpn-configs-for-russia/blob/main/QR-codes/Vless-Reality-White-Lists-Rus-Cable-QR.png)
 
 </details>
 
-**VLESS ТЕЛЕФОН**:  [WHITE_VLESS_MOBILE_RUS.txt](https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE_VLESS_MOBILE_RUS.txt)
+**VLESS ТЕЛЕФОН**:  [Vless-Reality-White-Lists-Rus-Mobile](https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile.txt)
 
 <details>
 <summary> QR-код </summary>
 
-  ![WHITE_VLESS_MOBILE_RUS-QR](https://github.com/igareck/vpn-configs-for-russia/blob/main/QR-codes/WHITE_VLESS_MOBILE_RUS-QR.png)
+  ![WHITE_VLESS_MOBILE_RUS-QR](https://github.com/igareck/vpn-configs-for-russia/blob/main/QR-codes/Vless-Reality-White-Lists-Rus-Mobile-QR.png)
 
 </details>
 
