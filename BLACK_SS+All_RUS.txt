@@ -49,8 +49,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpORFJ5U0lBQkFSYkVyTklWc0NOVmt5WUFIaUJ6aHZlVA@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTUzJRdmJDOW5xTHAyc1hYWm8wQlZ5NHNsY0VyUnVDdA@103.35.189.136:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Secaucus%20%5Bblack%20list%5D
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@173.244.56.9:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Us-az%20%5Bblack%20list%5D
 hysteria2://dongtaiwang.com@51.159.111.32:5355?sni=www.bing.com&insecure=1#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5Bblack%20lists%5D
-hysteria2://SNItest@46.243.235.119:443?sni=gazprombank.ru&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Moscow%20%5Bblack%20lists%5D%20sni%3Dgazprombank.ru%20cdnvideo
-hysteria2://SNItest@37.18.14.169:443?sni=megafon.ru&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Saint-Petersburg%20%5Bblack%20lists%5D%20sni%3Dmegafon.ru%20cdnvideo
 hysteria2://dongtaiwang.com@208.87.243.187:22222?sni=www.bing.com&insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20Walnut%20LA%20USA%20%5Bblack%20list%5D
 hysteria2://dongtaiwang.com@208.87.243.187:22222?sni=🔒&insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20Walnut%20LA%20USA%20%5Bblack%20list%5D
 hysteria2://dongtaiwang.com@208.87.243.187:22222?sni=sberbank.ru&insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20Walnut%20LA%20USA%20%5Bblack%20list%5D%20sni%3Dsberbank.ru
