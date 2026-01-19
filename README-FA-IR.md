@@ -44,7 +44,7 @@ VPNهای کلاسیک (OpenVPN، WireGuard و غیره) مدت‌هاست در�
 
 ممنون از توجه شما!
 
-## ![IMAGE SOURCE](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=2000&pause=1500&color=D73537&vCenter=true&width=500&height=75&lines=%F0%9F%92%BE+%D0%A1%D0%9A%D0%90%D0%A7%D0%90%D0%A2%D0%AC+VPN-%D0%9A%D0%9E%D0%9D%D0%A4%D0%98%D0%93%D0%98)
+## <img src="https://raw.githubusercontent.com/igareck/GoldCaviar/refs/heads/main/Files/Download-VPN-configs-banner-FA-IR.svg" width="480">
 
   *در کلاینت VPN خود «به‌روزرسانی خودکار» را فعال کنید!*
 
